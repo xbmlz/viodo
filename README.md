@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <a href="https://github.com/xbmlz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xbmlz&layout=compact&theme=" alt="Top Langs" width="335" height="170" />
 </a>
